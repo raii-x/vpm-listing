@@ -1,7 +1,7 @@
 {
     "name":"raii",
     "id":"com.fracfloor.vpm-listing",
-    "url":"https://raii-x.github.io/vpm-repos/index.json",
+    "url":"https://raii-x.github.io/vpm-listing/index.json",
     "author":{
         "email":"raii.program@gmail.com",
         "name":"raii",
@@ -9,7 +9,7 @@
     },
     "description":"raii's VPM Listing",
     "infoLink":{
-        "url":"http://github.com/raii-x/vpm-repos",
+        "url":"http://github.com/raii-x/vpm-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
